@@ -1,1 +1,3 @@
 # PHP-Sandbox
+
+Répertoire démo de code PHP.....
